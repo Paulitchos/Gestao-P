@@ -4,7 +4,9 @@ Cartão de loja
 Eventos e torneios
 Criação do jogo único da loja
 Leaderboard do mês, com prémios associados.
+Ranking de jogos mais jogados do mês
 Gaming coaches.
+Aulas de programação?
 Voucher com Cerveja,Cafés.
 Moeda de crypto associado à loja.
 Computador customizado pelos clientes.
